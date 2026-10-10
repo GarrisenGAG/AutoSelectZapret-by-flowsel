@@ -1,2 +1,2 @@
-# AutoSelectZapret-by-flowsel
-запрет от flowseal, добавил автоподбор
+Обычный запрет от Flowseal, добавлен автоподбор
+запускать service.bat
